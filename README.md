@@ -6,7 +6,7 @@ A sample todo rest webservice. It includes following features:
 2. "mark as complete" any todo task
 3. Show all pending task
 4. Show all completed task
-5. Shoa all task list
+5. Show all task list
 5. Allow to delete any task
 
 This project is developed using Spring Boot and MongoDB. Please follow below steps to install this project:
@@ -21,8 +21,8 @@ How to setup MongoDB:
 This project requires MongoDB. so please install it you can install it from the official website.
 After installing mongodb executable file from the official site, please download any good IDE for quering MongoDB document base DB.
 
-Download mongo db from below url:
+Download mongo db from:
 https://www.mongodb.com/download-center?jmp=nav#community
 
-Download mongo db studio 3T IDE from below url:
+Download mongo db studio 3T IDE from:
 https://studio3t.com/download/
